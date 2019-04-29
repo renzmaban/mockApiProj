@@ -26,9 +26,22 @@
     {"id": "PH.CP", "value": 2,"count":50},
     {"id": "PH.II", "value": 2,"count":50},
     {"id": "PH.GU", "value": 2,"count":50},
+    {"id": "PH.PL", "value": 2,"count":50},
+    {"id": "PH.RO", "value": 2,"count":50},
+    {"id": "PH.AL", "value": 1,"count":50},
+    {"id": "PH.CN", "value": 3,"count":50},
+    {"id": "PH.7001", "value": 1,"count":50},
+    {"id": "PH.7002", "value": 2,"count":50},
+    {"id": "PH.7003", "value": 2,"count":50},
+    {"id": "PH.7004", "value": 1,"count":50},
+    {"id": "PH.7006", "value": 1,"count":50},
+    {"id": "PH.7007", "value": 1,"count":50},
+    {"id": "PH.7013", "value": 2,"count":50},
+    {"id": "PH.7014", "value": 1,"count":50},
     {"id": "PH.7015", "value": 2,"count":50},
     {"id": "PH.7016", "value": 2,"count":50},
     {"id": "PH.7019", "value": 2,"count":50}
   ]
  
 }
+
