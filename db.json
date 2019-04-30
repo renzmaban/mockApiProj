@@ -153,42 +153,6 @@
       "project":"Project1",
       "detail1":"Detail1",
       "detail2":"Detail2"
-    },
-    "data4":{
-      "id":"data3",
-      "status":"ongoing",
-      "rank":1,
-      "province":"Province Name",
-      "project":"Project1",
-      "detail1":"Detail1",
-      "detail2":"Detail2"
-    },
-    "data6":{
-      "id":"data6",
-      "status":"ongoing",
-      "rank":1,
-      "province":"Province Name",
-      "project":"Project1",
-      "detail1":"Detail1",
-      "detail2":"Detail2"
-    },
-    "data7":{
-      "id":"data7",
-      "status":"ongoing",
-      "rank":1,
-      "province":"Province Name",
-      "project":"Project1",
-      "detail1":"Detail1",
-      "detail2":"Detail2"
-    },
-    "data8":{
-      "id":"data8",
-      "status":"ongoing",
-      "rank":1,
-      "province":"Province Name",
-      "project":"Project1",
-      "detail1":"Detail1",
-      "detail2":"Detail2"
     }
   }
  
