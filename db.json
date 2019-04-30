@@ -30,10 +30,10 @@
       {"id": "PH.7016", "value": 2,"count":50},
       {"id": "PH.7019", "value": 2,"count":50}
     ],
-    "id":"projectStatus"
-  },
-  {
-    "projectOngoing":{
+      "id":"projectStatus"
+    },
+
+    {"projectOngoing":{
       "data1":{
         "id":"data1",
         "status":"ongoing",
@@ -80,8 +80,9 @@
         "detail2":"Detail2"
       }
     },
-    "id":"projectOngoing"
-  },
+      "id":"projectOngoing"
+    },
+
     {"projectCompleted":{
       "data1":{
         "id":"data1",
@@ -121,8 +122,9 @@
         "detail2":"Detail2"
       }
     },
-    "id":"projectCompleted"
-  },
+      "id":"projectCompleted"
+    },
+
     {"projectTerminated":{
       "data1":{
         "id":"data1",
@@ -152,8 +154,58 @@
         "detail2":"Detail2"
       }
     },
-    "id":"projectTerminated"
-  }
+      "id":"projectTerminated"
+    },
+    {
+      "numberOfBeneficiaries":{
+        "id":"numberOfBeneficiaries",
+        "value":"25.42%"
+      } 
+    },
+    {
+      "totalProjectLength":{
+        "id":"totalProjectLength",
+        "value":"31.00%"
+      } 
+    },
+    {
+      "fundReleaseRate":{
+        "id":"fundReleaseRate",
+        "value":"11.02%"
+      } 
+    },
+    {
+      "qualityAssessmentRating":{
+        "id":"qualityAssessmentRating",
+        "value":"12.31%"
+      } 
+    },
+    {
+      "totalProjectCost":{
+        "id":"totalProjectCost",
+        "value":"42.12%"
+      } 
+    },
+    {
+      "averateCostPerKM":{
+        "id":"averateCostPerKM",
+        "value":"87.21%"
+      } 
+    },
+    {
+      "totalAllocations":{
+        "id":"totalAllocations",
+        "value":"21.65%"
+      } 
+    },
+    {
+      "totalFundsRelease":{
+        "id":"totalFundsRelease",
+        "value":"52.42%"
+      } 
+    }
+
+
   ]
 
  
