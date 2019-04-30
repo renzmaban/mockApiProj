@@ -1,6 +1,6 @@
 {
-  "mockAPI":{
-    "projectStatus":[
+  "mockAPI":[
+    {"projectStatus":[
       {"id": "PH.4218", "value": 1,"count":50},
       {"id": "PH.TT", "value": 1,"count":50},
       {"id": "PH.BO", "value": 2,"count":50},
@@ -30,9 +30,10 @@
       {"id": "PH.7016", "value": 2,"count":50},
       {"id": "PH.7019", "value": 2,"count":50}
     ],
-    "id":"projectStatus",
+    "id":"projectStatus"
+  },
+  {
     "projectOngoing":{
-      "id":"projectOngoing",
       "data1":{
         "id":"data1",
         "status":"ongoing",
@@ -79,8 +80,9 @@
         "detail2":"Detail2"
       }
     },
-    "projectCompleted":{
-      "id":"projectCompleted",
+    "id":"projectOngoing"
+  },
+    {"projectCompleted":{
       "data1":{
         "id":"data1",
         "status":"ongoing",
@@ -90,6 +92,7 @@
         "detail1":"Detail1",
         "detail2":"Detail2"
       },
+    
       "data2":{
         "id":"data2",
         "status":"ongoing",
@@ -118,8 +121,9 @@
         "detail2":"Detail2"
       }
     },
-    "projectTerminated":{
-      "id":"projectTerminated",
+    "id":"projectCompleted"
+  },
+    {"projectTerminated":{
       "data1":{
         "id":"data1",
         "status":"ongoing",
@@ -147,7 +151,11 @@
         "detail1":"Detail1",
         "detail2":"Detail2"
       }
-    }
+    },
+    "id":"projectTerminated"
   }
+  ]
+
+ 
 }
 
