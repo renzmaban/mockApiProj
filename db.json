@@ -156,9 +156,8 @@
     },
       "id":"projectTerminated"
     },
-   {
+   { "id":"secondRates",
      "secondRates":{
-        "id":"secondRates",
         "numberOfBeneficiaries":{
           "id":"numberOfBeneficiaries",
           "value":"25.42%"
