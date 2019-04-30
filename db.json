@@ -30,7 +30,9 @@
       {"id": "PH.7016", "value": 2,"count":50},
       {"id": "PH.7019", "value": 2,"count":50}
     ],
+    "id":"projectStatus",
     "projectOngoing":{
+      "id":"projectOngoing",
       "data1":{
         "id":"data1",
         "status":"ongoing",
@@ -78,6 +80,7 @@
       }
     },
     "projectCompleted":{
+      "id":"projectCompleted",
       "data1":{
         "id":"data1",
         "status":"ongoing",
@@ -116,6 +119,7 @@
       }
     },
     "projectTerminated":{
+      "id":"projectTerminated",
       "data1":{
         "id":"data1",
         "status":"ongoing",
@@ -145,6 +149,5 @@
       }
     }
   }
- 
 }
 
