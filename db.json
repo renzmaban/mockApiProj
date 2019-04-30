@@ -158,7 +158,7 @@
     },
    {
      "secondRates":{
-       "id":"secondRates",
+        "id":"secondRates",
         "numberOfBeneficiaries":{
           "id":"numberOfBeneficiaries",
           "value":"25.42%"
@@ -191,13 +191,11 @@
           "id":"totalFundsRelease",
           "value":"52.42%"
         } 
-     }
+      }
+     
     }
    
-
-
   ]
-
  
 }
 
