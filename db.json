@@ -156,54 +156,44 @@
     },
       "id":"projectTerminated"
     },
-    {
-      "numberOfBeneficiaries":{
-        "id":"numberOfBeneficiaries",
-        "value":"25.42%"
-      } 
-    },
-    {
-      "totalProjectLength":{
-        "id":"totalProjectLength",
-        "value":"31.00%"
-      } 
-    },
-    {
-      "fundReleaseRate":{
-        "id":"fundReleaseRate",
-        "value":"11.02%"
-      } 
-    },
-    {
-      "qualityAssessmentRating":{
-        "id":"qualityAssessmentRating",
-        "value":"12.31%"
-      } 
-    },
-    {
-      "totalProjectCost":{
-        "id":"totalProjectCost",
-        "value":"42.12%"
-      } 
-    },
-    {
-      "averateCostPerKM":{
-        "id":"averateCostPerKM",
-        "value":"87.21%"
-      } 
-    },
-    {
-      "totalAllocations":{
-        "id":"totalAllocations",
-        "value":"21.65%"
-      } 
-    },
-    {
-      "totalFundsRelease":{
-        "id":"totalFundsRelease",
-        "value":"52.42%"
-      } 
+   {
+     "secondRates":{
+       "id":"secondRates",
+        "numberOfBeneficiaries":{
+          "id":"numberOfBeneficiaries",
+          "value":"25.42%"
+        },
+        "totalProjectLength":{
+          "id":"totalProjectLength",
+          "value":"31.00%"
+        },
+        "fundReleaseRate":{
+          "id":"fundReleaseRate",
+          "value":"11.02%"
+        },
+        "qualityAssessmentRating":{
+          "id":"qualityAssessmentRating",
+          "value":"12.31%"
+        },
+        "totalProjectCost":{
+          "id":"totalProjectCost",
+          "value":"42.12%"
+        },
+        "averateCostPerKM":{
+          "id":"averateCostPerKM",
+          "value":"87.21%"
+        },
+        "totalAllocations":{
+          "id":"totalAllocations",
+          "value":"21.65%"
+        },
+        "totalFundsRelease":{
+          "id":"totalFundsRelease",
+          "value":"52.42%"
+        } 
+     }
     }
+   
 
 
   ]
