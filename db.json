@@ -292,15 +292,6 @@
         "project":"Project1",
         "detail1":"Detail1",
         "detail2":"Detail2"
-      },
-      "data5":{
-        "id":"data5",
-        "status":"ongoing",
-        "rank":1,
-        "province":"Province Name",
-        "project":"Project1",
-        "detail1":"Detail1",
-        "detail2":"Detail2"
       }
     },
       "id":"timeHigh"
