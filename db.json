@@ -284,19 +284,6 @@
         "detail4":"Lorem",
         "detail5":"Ipsum",
         "detail6":"Ipsum"
-      },
-      "data5":{
-        "id":"data5",
-        "status":"ongoing",
-        "rank":1,
-        "province":"Province Name",
-        "project":"Project",
-        "detail1":"Details",
-        "detail2":"100%",
-        "detail3":"55%",
-        "detail4":"Lorem",
-        "detail5":"Ipsum",
-        "detail6":"Ipsum"
       }
     },
       "id":"accomplishmentRate"
