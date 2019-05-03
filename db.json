@@ -1,7 +1,6 @@
 {
   "mockAPI":[
     {"projectStatus":[
-      {"id": "PH.4218", "value": 1,"count":50},
       {"id": "PH.TT", "value": 1,"count":50},
       {"id": "PH.BO", "value": 2,"count":50},
       {"id": "PH.CB", "value": 2,"count":50},
@@ -34,7 +33,6 @@
     },
 
     {"riskAssessTime":[
-      {"id": "PH.4218", "value": 1,"count":50},
       {"id": "PH.TT", "value": 1,"count":50},
       {"id": "PH.BO", "value": 2,"count":50},
       {"id": "PH.CB", "value": 2,"count":50},
@@ -67,7 +65,6 @@
     },
 
     {"riskAssessProjMng":[
-      {"id": "PH.4218", "value": 2,"count":50},
       {"id": "PH.TT", "value": 2,"count":50},
       {"id": "PH.BO", "value": 2,"count":50},
       {"id": "PH.CB", "value": 2,"count":50},
@@ -100,7 +97,6 @@
     },
 
     {"riskAssessQuality":[
-      {"id": "PH.4218", "value": 4,"count":50},
       {"id": "PH.TT", "value": 3,"count":50},
       {"id": "PH.BO", "value": 1,"count":50},
       {"id": "PH.CB", "value": 2,"count":50},
